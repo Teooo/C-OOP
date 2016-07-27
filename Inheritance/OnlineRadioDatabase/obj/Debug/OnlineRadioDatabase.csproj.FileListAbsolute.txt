@@ -1,0 +1,6 @@
+C:\Users\007\Documents\Visual Studio 2015\Projects\Inheritance\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe.config
+C:\Users\007\Documents\Visual Studio 2015\Projects\Inheritance\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\Inheritance\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.pdb
+C:\Users\007\Documents\Visual Studio 2015\Projects\Inheritance\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+C:\Users\007\Documents\Visual Studio 2015\Projects\Inheritance\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\Inheritance\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.pdb

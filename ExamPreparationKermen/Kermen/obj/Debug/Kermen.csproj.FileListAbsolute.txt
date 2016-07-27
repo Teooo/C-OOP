@@ -1,0 +1,5 @@
+C:\Users\007\Documents\Visual Studio 2015\Projects\ExamPreparationKermen\Kermen\bin\Debug\Kermen.exe.config
+C:\Users\007\Documents\Visual Studio 2015\Projects\ExamPreparationKermen\Kermen\bin\Debug\Kermen.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\ExamPreparationKermen\Kermen\bin\Debug\Kermen.pdb
+C:\Users\007\Documents\Visual Studio 2015\Projects\ExamPreparationKermen\Kermen\obj\Debug\Kermen.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\ExamPreparationKermen\Kermen\obj\Debug\Kermen.pdb

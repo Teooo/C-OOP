@@ -1,0 +1,6 @@
+c:\users\007\documents\visual studio 2015\Projects\Encapsulation\ClassBox\bin\Debug\ClassBox.exe.config
+C:\Users\007\Documents\Visual Studio 2015\Projects\Encapsulation\ClassBox\obj\Debug\ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\007\Documents\Visual Studio 2015\Projects\Encapsulation\ClassBox\bin\Debug\ClassBox.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\Encapsulation\ClassBox\bin\Debug\ClassBox.pdb
+C:\Users\007\Documents\Visual Studio 2015\Projects\Encapsulation\ClassBox\obj\Debug\ClassBox.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\Encapsulation\ClassBox\obj\Debug\ClassBox.pdb

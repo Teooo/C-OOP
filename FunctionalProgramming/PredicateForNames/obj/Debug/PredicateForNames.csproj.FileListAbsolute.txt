@@ -1,0 +1,5 @@
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateForNames\bin\Debug\PredicateForNames.exe.config
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateForNames\bin\Debug\PredicateForNames.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateForNames\bin\Debug\PredicateForNames.pdb
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateForNames\obj\Debug\PredicateForNames.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateForNames\obj\Debug\PredicateForNames.pdb

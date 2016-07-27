@@ -1,0 +1,5 @@
+c:\users\007\documents\visual studio 2015\Projects\Methods\NumberInReversedOrder\bin\Debug\NumberInReversedOrder.exe.config
+c:\users\007\documents\visual studio 2015\Projects\Methods\NumberInReversedOrder\bin\Debug\NumberInReversedOrder.exe
+c:\users\007\documents\visual studio 2015\Projects\Methods\NumberInReversedOrder\bin\Debug\NumberInReversedOrder.pdb
+c:\users\007\documents\visual studio 2015\Projects\Methods\NumberInReversedOrder\obj\Debug\NumberInReversedOrder.exe
+c:\users\007\documents\visual studio 2015\Projects\Methods\NumberInReversedOrder\obj\Debug\NumberInReversedOrder.pdb

@@ -1,0 +1,6 @@
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\ReverseAndexclude\bin\Debug\ReverseAndexclude.exe.config
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\ReverseAndexclude\bin\Debug\ReverseAndexclude.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\ReverseAndexclude\bin\Debug\ReverseAndexclude.pdb
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\ReverseAndexclude\obj\Debug\ReverseAndexclude.csprojResolveAssemblyReference.cache
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\ReverseAndexclude\obj\Debug\ReverseAndexclude.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\ReverseAndexclude\obj\Debug\ReverseAndexclude.pdb

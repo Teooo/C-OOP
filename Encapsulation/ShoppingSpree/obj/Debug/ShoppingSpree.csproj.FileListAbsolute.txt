@@ -1,0 +1,5 @@
+C:\Users\007\Documents\Visual Studio 2015\Projects\Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+C:\Users\007\Documents\Visual Studio 2015\Projects\Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+C:\Users\007\Documents\Visual Studio 2015\Projects\Encapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\Encapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.pdb

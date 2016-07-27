@@ -1,0 +1,6 @@
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateParty\bin\Debug\PredicateParty.exe.config
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateParty\bin\Debug\PredicateParty.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateParty\bin\Debug\PredicateParty.pdb
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateParty\obj\Debug\PredicateParty.csprojResolveAssemblyReference.cache
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateParty\obj\Debug\PredicateParty.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\PredicateParty\obj\Debug\PredicateParty.pdb

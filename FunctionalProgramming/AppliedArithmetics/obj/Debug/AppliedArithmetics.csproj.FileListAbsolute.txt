@@ -1,0 +1,6 @@
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\AppliedArithmetics\bin\Debug\AppliedArithmetics.exe.config
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\AppliedArithmetics\bin\Debug\AppliedArithmetics.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\AppliedArithmetics\bin\Debug\AppliedArithmetics.pdb
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\AppliedArithmetics\obj\Debug\AppliedArithmetics.csprojResolveAssemblyReference.cache
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\AppliedArithmetics\obj\Debug\AppliedArithmetics.exe
+C:\Users\007\Documents\Visual Studio 2015\Projects\FunctionalProgramming\AppliedArithmetics\obj\Debug\AppliedArithmetics.pdb

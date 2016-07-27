@@ -1,0 +1,6 @@
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\Person\bin\Debug\Person.exe.config
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\Person\bin\Debug\Person.exe
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\Person\bin\Debug\Person.pdb
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\Person\obj\Debug\Person.exe
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\Person\obj\Debug\Person.pdb

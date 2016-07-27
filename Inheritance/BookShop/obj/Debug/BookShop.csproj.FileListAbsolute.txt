@@ -1,0 +1,5 @@
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\BookShop\bin\Debug\BookShop.exe.config
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\BookShop\bin\Debug\BookShop.exe
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\BookShop\bin\Debug\BookShop.pdb
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\BookShop\obj\Debug\BookShop.exe
+c:\users\007\documents\visual studio 2015\Projects\Inheritance\BookShop\obj\Debug\BookShop.pdb

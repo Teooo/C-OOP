@@ -1,0 +1,6 @@
+c:\users\007\documents\visual studio 2015\Projects\Methods\LastDigitName\bin\Debug\LastDigitName.exe.config
+c:\users\007\documents\visual studio 2015\Projects\Methods\LastDigitName\bin\Debug\LastDigitName.exe
+c:\users\007\documents\visual studio 2015\Projects\Methods\LastDigitName\bin\Debug\LastDigitName.pdb
+c:\users\007\documents\visual studio 2015\Projects\Methods\LastDigitName\obj\Debug\LastDigitName.csprojResolveAssemblyReference.cache
+c:\users\007\documents\visual studio 2015\Projects\Methods\LastDigitName\obj\Debug\LastDigitName.exe
+c:\users\007\documents\visual studio 2015\Projects\Methods\LastDigitName\obj\Debug\LastDigitName.pdb

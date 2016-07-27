@@ -1,0 +1,6 @@
+c:\users\007\documents\visual studio 2015\Projects\FunctionalProgramming\ActionPrint\bin\Debug\ActionPrint.exe.config
+c:\users\007\documents\visual studio 2015\Projects\FunctionalProgramming\ActionPrint\bin\Debug\ActionPrint.exe
+c:\users\007\documents\visual studio 2015\Projects\FunctionalProgramming\ActionPrint\bin\Debug\ActionPrint.pdb
+c:\users\007\documents\visual studio 2015\Projects\FunctionalProgramming\ActionPrint\obj\Debug\ActionPrint.csprojResolveAssemblyReference.cache
+c:\users\007\documents\visual studio 2015\Projects\FunctionalProgramming\ActionPrint\obj\Debug\ActionPrint.exe
+c:\users\007\documents\visual studio 2015\Projects\FunctionalProgramming\ActionPrint\obj\Debug\ActionPrint.pdb

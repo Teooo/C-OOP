@@ -1,0 +1,6 @@
+c:\users\007\documents\visual studio 2015\Projects\Linq\StudentsByGroup\bin\Debug\StudentsByGroup.exe.config
+c:\users\007\documents\visual studio 2015\Projects\Linq\StudentsByGroup\bin\Debug\StudentsByGroup.exe
+c:\users\007\documents\visual studio 2015\Projects\Linq\StudentsByGroup\bin\Debug\StudentsByGroup.pdb
+c:\users\007\documents\visual studio 2015\Projects\Linq\StudentsByGroup\obj\Debug\StudentsByGroup.csprojResolveAssemblyReference.cache
+c:\users\007\documents\visual studio 2015\Projects\Linq\StudentsByGroup\obj\Debug\StudentsByGroup.exe
+c:\users\007\documents\visual studio 2015\Projects\Linq\StudentsByGroup\obj\Debug\StudentsByGroup.pdb
