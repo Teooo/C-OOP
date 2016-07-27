@@ -1,0 +1,6 @@
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\BasicMark-upLanguage\bin\Debug\BasicMark-upLanguage.exe.config
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\BasicMark-upLanguage\bin\Debug\BasicMark-upLanguage.exe
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\BasicMark-upLanguage\bin\Debug\BasicMark-upLanguage.pdb
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\BasicMark-upLanguage\obj\Debug\BasicMark-upLanguage.csprojResolveAssemblyReference.cache
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\BasicMark-upLanguage\obj\Debug\BasicMark-upLanguage.exe
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\BasicMark-upLanguage\obj\Debug\BasicMark-upLanguage.pdb

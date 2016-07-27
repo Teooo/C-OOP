@@ -1,0 +1,6 @@
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\afasfafa\bin\Debug\afasfafa.exe.config
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\afasfafa\bin\Debug\afasfafa.exe
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\afasfafa\bin\Debug\afasfafa.pdb
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\afasfafa\obj\Debug\afasfafa.exe
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\afasfafa\obj\Debug\afasfafa.pdb
+c:\users\007\documents\visual studio 2015\Projects\BasicMark-upLanguage\afasfafa\obj\Debug\afasfafa.csprojResolveAssemblyReference.cache

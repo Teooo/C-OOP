@@ -1,0 +1,6 @@
+c:\users\007\documents\visual studio 2015\Projects\OOPExam\System\bin\Debug\System.exe.config
+c:\users\007\documents\visual studio 2015\Projects\OOPExam\System\obj\Debug\System.csprojResolveAssemblyReference.cache
+c:\users\007\documents\visual studio 2015\Projects\OOPExam\System\bin\Debug\System.exe
+c:\users\007\documents\visual studio 2015\Projects\OOPExam\System\bin\Debug\System.pdb
+c:\users\007\documents\visual studio 2015\Projects\OOPExam\System\obj\Debug\System.exe
+c:\users\007\documents\visual studio 2015\Projects\OOPExam\System\obj\Debug\System.pdb
